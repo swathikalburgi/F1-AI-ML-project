@@ -14,6 +14,10 @@ This repository serves as a central hub for my Formula 1 AI/ML projects, focused
    - Studies social media to understand F1 fan sentiment and trends<br/>
    - [GitHub Repo](https://github.com/swathikalburgi/fan-sentiment-analysis)<br/>
 
+4. Data dashboard<br/>
+   - Interactive F1 dashboard showcasing race predictions, weather impact, and fan sentiment insights for Monza 2025<br/>
+   - [Preview](https://www.figma.com/proto/cXUm5ZqCI5AQyzrbMK3a5V/f1-fdashboard?page-id=0%3A1&node-id=3-25&p=f&viewport=-500%2C209%2C0.34&t=DCpfSnyhsaF6oDBy-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3%3A25)<br/>
+
 # Tech stack
 - Python, pandas, NumPy
 - scikit-learn, XGBoost
